@@ -1,0 +1,4 @@
+D:\Temp\TechTests\Billet\Billet.Service\bin\Debug\Billet.Service.dll
+D:\Temp\TechTests\Billet\Billet.Service\bin\Debug\Billet.Service.pdb
+D:\Temp\TechTests\Billet\Billet.Service\obj\Debug\Billet.Service.dll
+D:\Temp\TechTests\Billet\Billet.Service\obj\Debug\Billet.Service.pdb

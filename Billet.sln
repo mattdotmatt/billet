@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billet", "Billet\Billet.csproj", "{910A3526-5BAB-44F0-9CE2-C8E160EB91BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{767010BA-9C6F-43A6-A5F6-67279786C7F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{C1303B76-58F4-47CC-A596-8E0A0737B7DD}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Scripts\Deploy-AzureResourceGroup.ps1 = PublishScripts\Scripts\Deploy-AzureResourceGroup.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{C221AB7B-D652-4A33-A7A7-E10A52CC0B19}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Templates\Billet.json = PublishScripts\Templates\Billet.json
+		PublishScripts\Templates\Billet.param.dev.json = PublishScripts\Templates\Billet.param.dev.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billet.Api.Tests", "Billet.Api.Tests\Billet.Api.Tests.csproj", "{D3971224-4B61-402F-AD66-8E0D8E2EE0E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billet.Data", "Billet.Data\Billet.Data.csproj", "{9CEF49AF-B1C6-4BA1-922E-D6F39A6FB046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billet.Domain", "Billet.Domain\Billet.Domain.csproj", "{ABF74479-E885-46F7-9D17-195518282D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billet.Service", "Billet.Service\Billet.Service.csproj", "{0E04FDBF-7D6C-4722-97CE-9A6BE2704E5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910A3526-5BAB-44F0-9CE2-C8E160EB91BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910A3526-5BAB-44F0-9CE2-C8E160EB91BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910A3526-5BAB-44F0-9CE2-C8E160EB91BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910A3526-5BAB-44F0-9CE2-C8E160EB91BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3971224-4B61-402F-AD66-8E0D8E2EE0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3971224-4B61-402F-AD66-8E0D8E2EE0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3971224-4B61-402F-AD66-8E0D8E2EE0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3971224-4B61-402F-AD66-8E0D8E2EE0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CEF49AF-B1C6-4BA1-922E-D6F39A6FB046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CEF49AF-B1C6-4BA1-922E-D6F39A6FB046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CEF49AF-B1C6-4BA1-922E-D6F39A6FB046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CEF49AF-B1C6-4BA1-922E-D6F39A6FB046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF74479-E885-46F7-9D17-195518282D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF74479-E885-46F7-9D17-195518282D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF74479-E885-46F7-9D17-195518282D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF74479-E885-46F7-9D17-195518282D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E04FDBF-7D6C-4722-97CE-9A6BE2704E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E04FDBF-7D6C-4722-97CE-9A6BE2704E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E04FDBF-7D6C-4722-97CE-9A6BE2704E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E04FDBF-7D6C-4722-97CE-9A6BE2704E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C1303B76-58F4-47CC-A596-8E0A0737B7DD} = {767010BA-9C6F-43A6-A5F6-67279786C7F0}
+		{C221AB7B-D652-4A33-A7A7-E10A52CC0B19} = {767010BA-9C6F-43A6-A5F6-67279786C7F0}
+	EndGlobalSection
+EndGlobal

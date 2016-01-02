@@ -1,0 +1,6 @@
+D:\Temp\TechTests\Billet\Billet.Domain\bin\Debug\Billet.Domain.dll
+D:\Temp\TechTests\Billet\Billet.Domain\bin\Debug\Billet.Domain.pdb
+D:\Temp\TechTests\Billet\Billet.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\Temp\TechTests\Billet\Billet.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\Temp\TechTests\Billet\Billet.Domain\obj\Debug\Billet.Domain.dll
+D:\Temp\TechTests\Billet\Billet.Domain\obj\Debug\Billet.Domain.pdb

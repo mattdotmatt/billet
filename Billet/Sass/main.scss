@@ -1,0 +1,146 @@
+﻿$sky-blue: #0050A0;
+$sky-light-blue: #007BC4;
+$sky-peach: #FDD8A6;
+$sky-red: #E52818;
+$sky-white: #FFF;
+$sky-pink: #D5AED2;
+$sky-orange: #F59B00;
+$sky-purple: #F08AA6;
+
+body {
+    padding-bottom: 20px;
+}
+
+.header {
+    background: url(../images/logo.png) no-repeat;
+    background-size: 200px;
+    width: 100%;
+    height: 100px;
+    border-bottom: solid 3px $sky-blue;
+    margin-bottom: 10px;
+}
+
+.footer {
+    margin-top: 20px;
+    border-top: solid 3px $sky-blue;
+    padding-top: 20px;
+ }
+
+.copyright {
+    float: right;   
+}
+
+#bill-title {
+    padding: 20px;
+    font-size: 250%;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#login-title {
+    padding: 10px 20px;
+    font-size: 150%;   
+}
+
+#login {
+    padding: 20px;    
+}
+
+#login label {
+    font-size: 120%;
+    margin-right: 15px;
+}
+
+#login input {
+    font-size: 120%;
+    margin-right: 15px;
+}
+
+#personal {
+    margin-top: 10px;
+    border-top: solid 1px $sky-blue;
+}
+
+#personal-details-title {
+    padding: 10px;
+    font-size: 150%;
+}
+
+#bill-summary {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: solid 1px $sky-blue;
+}
+
+#bill-summary-title {
+    padding: 10px;
+    font-size: 150%;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: $sky-peach;
+}
+
+.bill-summary-breakdown-details A {
+    font-size: 60%;
+    color: $sky-white;
+}
+
+.circle, .circle-total {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding-top: 65px;
+    font-size: 250%;
+    text-align: center;
+    border: solid 3px $sky-white;
+}
+
+.circle:hover {
+    border: solid 3px $sky-red;
+    cursor: pointer;
+}
+
+.billType {
+    font-size: 200%;
+}
+
+#total {
+    background-color: $sky-pink;
+}
+
+#package {
+    background-color: $sky-orange;
+}
+
+#calls {
+    background-color: $sky-light-blue;
+}
+
+#skystore {
+    background-color: $sky-purple;
+}
+
+.breakdown {
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.breakdown #package-breakdown {
+    font-size: 200%;
+    color: $sky-orange;
+}
+
+.breakdown #skystore-breakdown {
+    font-size: 200%;
+    color: $sky-purple;
+}
+
+.breakdown #calls-breakdown {
+    font-size: 200%;
+    color: $sky-light-blue;
+}

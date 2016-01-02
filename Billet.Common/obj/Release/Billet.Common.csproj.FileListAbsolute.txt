@@ -1,0 +1,7 @@
+D:\Temp\TechTests\Billet\Billet.Common\bin\Release\Billet.Common.dll
+D:\Temp\TechTests\Billet\Billet.Common\bin\Release\Billet.Common.pdb
+D:\Temp\TechTests\Billet\Billet.Common\bin\Release\Newtonsoft.Json.dll
+D:\Temp\TechTests\Billet\Billet.Common\bin\Release\Newtonsoft.Json.xml
+D:\Temp\TechTests\Billet\Billet.Common\obj\Release\Billet.Common.csprojResolveAssemblyReference.cache
+D:\Temp\TechTests\Billet\Billet.Common\obj\Release\Billet.Common.dll
+D:\Temp\TechTests\Billet\Billet.Common\obj\Release\Billet.Common.pdb

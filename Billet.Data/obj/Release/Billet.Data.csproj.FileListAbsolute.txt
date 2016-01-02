@@ -1,0 +1,13 @@
+D:\Temp\TechTests\Billet\Billet.Data\bin\Release\Billet.Data.dll
+D:\Temp\TechTests\Billet\Billet.Data\bin\Release\Billet.Data.pdb
+D:\Temp\TechTests\Billet\Billet.Data\bin\Release\Newtonsoft.Json.dll
+D:\Temp\TechTests\Billet\Billet.Data\bin\Release\Newtonsoft.Json.xml
+D:\Temp\TechTests\Billet\Billet.Data\obj\Release\Billet.Data.csprojResolveAssemblyReference.cache
+D:\Temp\TechTests\Billet\Billet.Data\obj\Release\Billet.Data.dll
+D:\Temp\TechTests\Billet\Billet.Data\obj\Release\Billet.Data.pdb
+D:\Temp\TechTests\Billet\Billet.Data\bin\Release\AutoMapper.dll
+D:\Temp\TechTests\Billet\Billet.Data\bin\Release\Billet.Domain.dll
+D:\Temp\TechTests\Billet\Billet.Data\bin\Release\Billet.Service.dll
+D:\Temp\TechTests\Billet\Billet.Data\bin\Release\Billet.Domain.pdb
+D:\Temp\TechTests\Billet\Billet.Data\bin\Release\Billet.Service.pdb
+D:\Temp\TechTests\Billet\Billet.Data\bin\Release\AutoMapper.xml
