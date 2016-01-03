@@ -96,7 +96,7 @@
       <DependentUpon>BillSummary.feature</DependentUpon>
     </Compile>
     <Compile Include="Features\Helpers\XUnitMonkeyPatch.cs" />
-    <None Include="Features\Steps\BillSteps" />
+    <Compile Include="Features\Steps\BillSteps.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnitTests\Api\BillController\BillControllerContext.cs" />
     <Compile Include="UnitTests\Api\BillController\BreakdownTests.cs" />

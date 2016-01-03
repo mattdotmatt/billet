@@ -2,3 +2,4 @@ D:\Temp\TechTests\Billet\Billet.Service\bin\Release\Billet.Service.dll
 D:\Temp\TechTests\Billet\Billet.Service\bin\Release\Billet.Service.pdb
 D:\Temp\TechTests\Billet\Billet.Service\obj\Release\Billet.Service.dll
 D:\Temp\TechTests\Billet\Billet.Service\obj\Release\Billet.Service.pdb
+D:\Temp\TechTests\Billet\Billet.Service\obj\Release\Billet.Service.csprojResolveAssemblyReference.cache

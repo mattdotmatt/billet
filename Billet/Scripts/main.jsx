@@ -20,7 +20,7 @@ var Main = React.createClass({
     setAccountId: function (accountId) {
         xhr = new XMLHttpRequest();
 
-        xhr.open('GET', encodeURI(currentDomain+'/api/account/' + accountId + '/billsummary'));
+        xhr.open('GET', encodeURI(currentDomain+'api/account/' + accountId + '/billsummary'));
         xhr.onload = function () {
             if (xhr.status === 200) {
                 var summary = JSON.parse(xhr.responseText);
