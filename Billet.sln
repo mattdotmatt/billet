@@ -18,7 +18,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{
 		PublishScripts\Templates\Billet.param.dev.json = PublishScripts\Templates\Billet.param.dev.json
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billet.Api.Tests", "Billet.Api.Tests\Billet.Api.Tests.csproj", "{D3971224-4B61-402F-AD66-8E0D8E2EE0E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billet.Tests", "Billet.Api.Tests\Billet.Tests.csproj", "{D3971224-4B61-402F-AD66-8E0D8E2EE0E5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billet.Data", "Billet.Data\Billet.Data.csproj", "{9CEF49AF-B1C6-4BA1-922E-D6F39A6FB046}"
 EndProject
